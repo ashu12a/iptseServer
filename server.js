@@ -21,7 +21,6 @@ app.use(routes);
 
 app.use(errorHandler);
 
-
 // Connect to Database
 dbConnect();
 
